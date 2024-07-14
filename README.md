@@ -28,7 +28,7 @@ An authentication app developed in Flutter, integrating Firebase authentication 
 
 ## Screenshots
 
-Include screenshots of your app here to give users a preview.
+
 
 ## Getting Started
 
